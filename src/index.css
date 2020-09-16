@@ -1,5 +1,5 @@
 body {
-  background-color: #b4b4b2;
+  background-color: #d3baeb;
   padding: 20px;
   margin: 0;
 }
@@ -23,7 +23,7 @@ ul.header li a {
   display: inline-block;
 }
 .content {
-  background-color: rgb(100, 143, 45);
+  background-color: rgb(64, 152, 158);
   padding: 20px;
 }
 .content h2 {
